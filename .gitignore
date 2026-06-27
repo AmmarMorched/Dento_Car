@@ -1,6 +1,6 @@
 __pycache__/
 *.pyc
-.env
+*.env
 node_modules/
 .expo/
 dist/
@@ -8,8 +8,11 @@ dist/
 *.pth
 models/
 
-Dentocar/
+Dentoapp/
 venv/
 env/
 .venv/
 .env/
+
+# Environment variables
+backend/.envbackend/.env
