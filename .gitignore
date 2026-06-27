@@ -7,3 +7,9 @@ dist/
 *.pt
 *.pth
 models/
+
+Dentocar/
+venv/
+env/
+.venv/
+.env/
