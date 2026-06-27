@@ -15,4 +15,4 @@ env/
 .env/
 
 # Environment variables
-backend/.envbackend/.env
+backend/.env
